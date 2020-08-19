@@ -5,7 +5,5 @@
   * [考试列表](/exam/list)
   * [查询成绩](/exam/grades)
   * [查询错题](/exam/info)
+  * [查询原卷](/exam/raw)
   * [查询答题卡](/exam/card)
-
-* 说说推广功能
-  * [使用方法](/qzone/forward)
